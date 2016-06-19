@@ -1,0 +1,16 @@
+/*
+Zachary Moffatt
+zmoffatt
+CS12m
+5/10/16
+Lab 5
+README
+*/
+
+Files:
+README
+Makefile
+Dictionary.h
+Dictionary.c
+DictionaryClient.c
+DictionaryTest.c
